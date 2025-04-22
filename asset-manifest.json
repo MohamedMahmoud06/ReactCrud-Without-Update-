@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactCrud-Without-Update-.git/static/css/main.722eafe8.css",
+    "main.js": "/ReactCrud-Without-Update-.git/static/js/main.cb3d2f70.js",
+    "static/js/453.b2482a81.chunk.js": "/ReactCrud-Without-Update-.git/static/js/453.b2482a81.chunk.js",
+    "index.html": "/ReactCrud-Without-Update-.git/index.html",
+    "main.722eafe8.css.map": "/ReactCrud-Without-Update-.git/static/css/main.722eafe8.css.map",
+    "main.cb3d2f70.js.map": "/ReactCrud-Without-Update-.git/static/js/main.cb3d2f70.js.map",
+    "453.b2482a81.chunk.js.map": "/ReactCrud-Without-Update-.git/static/js/453.b2482a81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.722eafe8.css",
+    "static/js/main.cb3d2f70.js"
+  ]
+}
